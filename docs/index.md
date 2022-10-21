@@ -10,15 +10,15 @@ tagline: 日拱一卒，功不唐捐
 features: # 可选的
   - title: 四十七过程
     details: 五大过程组,十大领域,四十七过程
-    # link: /web/ # 可选
+    link: /过程/ # 可选
     imgUrl: /img/web.png # 可选
   - title: 工具与技术(ITTO)
     details: 输入/输出/工具与技术
-    # link: /technology/
+    link: /ITTO/
     imgUrl: /img/other.png
   - title: 信息
     details: 信息交流
-    # link: /ui/
+    link: /信息/
     imgUrl: /img/ui.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
