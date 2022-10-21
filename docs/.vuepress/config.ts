@@ -18,8 +18,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: "汽车焊装驿站",
-      description: '汽车制造焊装专业,相关知识/技术/信息.',
+      title: "软考知识整理",
+      description: '软考:学习记录,资料分享,信息交流',
     }
   },
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
