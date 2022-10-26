@@ -240,6 +240,13 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // ], // 网站关联Google AdSense 与 html格式广告支持（你可以去掉）
   ],
 
+  // webpackConfig
+  configureWebpack: {
+    node:{
+      global:true,
+      process:true
+    }
+  },
 
   // 插件配置
   plugins: <UserPlugins>[
